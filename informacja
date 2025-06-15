@@ -1,0 +1,3 @@
+Projekt jest wysłany w dwóch formach:
+1. Na gałęzi main jest wysłany w zip, razem z bazą danych w sql
+2. Na gałęzi master jest wysłany za pomocą pull request'a, a baza znajduję się w pliku README 
